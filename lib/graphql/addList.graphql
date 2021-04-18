@@ -1,0 +1,6 @@
+mutation AddList($input: AddListInput!) {
+  addList(input: $input) {
+    _id
+    title
+  }
+}

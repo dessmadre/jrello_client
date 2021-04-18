@@ -1,0 +1,7 @@
+query AllBoards {
+  allBoards {
+    _id
+    title
+    bgColor
+  }
+}

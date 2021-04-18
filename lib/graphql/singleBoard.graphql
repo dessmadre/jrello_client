@@ -1,0 +1,7 @@
+query SingleBoard($id: ObjectId!) {
+  singleBoard(boardId: $id) {
+    _id
+    title
+    bgColor
+  }
+}

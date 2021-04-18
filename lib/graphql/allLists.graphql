@@ -1,0 +1,6 @@
+query AllLists($id: ObjectId!) {
+  allLists(boardId: $id) {
+    _id
+    title
+  }
+}

@@ -1,0 +1,6 @@
+query AllCards($id: ObjectId!) {
+  allCards(listId: $id) {
+    _id
+    title
+  }
+}

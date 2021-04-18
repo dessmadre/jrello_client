@@ -1,0 +1,6 @@
+mutation EditCard($input: EditCardInput!) {
+  editCard(input: $input) {
+    _id
+    title
+  }
+}

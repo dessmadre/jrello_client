@@ -1,0 +1,36 @@
+<svg id="icon-elipse" xmlns="http://www.w3.org/2000/svg" width="30" height="8" viewBox="0 0 30 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="icon-elipse-2" data-name="icon-elipse">
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-1">
+      <circle class="cls-2" cx="4" cy="4" r="4"/>
+      <circle class="cls-3" cx="4" cy="4" r="3.5"/>
+    </g>
+  </g>
+  <g id="icon-elipse-3" data-name="icon-elipse" transform="translate(11)">
+    <g id="Ellipse_3-2" data-name="Ellipse 3" class="cls-1">
+      <circle class="cls-2" cx="4" cy="4" r="4"/>
+      <circle class="cls-3" cx="4" cy="4" r="3.5"/>
+    </g>
+  </g>
+  <g id="icon-elipse-4" data-name="icon-elipse" transform="translate(22)">
+    <g id="Ellipse_3-3" data-name="Ellipse 3" class="cls-1">
+      <circle class="cls-2" cx="4" cy="4" r="4"/>
+      <circle class="cls-3" cx="4" cy="4" r="3.5"/>
+    </g>
+  </g>
+</svg>
